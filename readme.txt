@@ -1,0 +1,1 @@
+- Different versions of the app - 	Without Google - 	getting it to buildgit add ./*git commitgit commit -agit clone http://git push -repo=hhttps://github.com/natashadwyer/nup master`GvrController' is obsolete: `Replaced by GvrControllerInput.'
